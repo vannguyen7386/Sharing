@@ -8,7 +8,7 @@
     </head>
     <body>
         <p>Browser info:</p>
-
+        <h3>AANDS</h3>    
         <script>
             jQuery.each(jQuery.browser, function(i, val) {
                 $("<div>" + i + " : <span>" + val + "</span>")
