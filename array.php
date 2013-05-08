@@ -9,6 +9,7 @@
         <th>Sunday</th>
     </tr>
     <?php
+    echo "adsad";
     $arr_datas = array(array(date => '2013-02-23', price => 200, is_campaign => 1),
         array(date => '2013-02-24', price => 0, is_campaign => 0),
         array(date => '2013-02-25', price => 200, is_campaign => 1),
